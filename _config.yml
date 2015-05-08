@@ -1,10 +1,10 @@
 username: kingbeful
-baseurl: /StrayBirds
+baseurl: /space
 markdown: redcarpet
 safe: false
 highlighter: pygments
 title: Kevin's Code Log
-description: Freedom is the Most important
+description: Freedom is the Most Important Thing
 theme: modernist
 disqusname: minixalpha
 
