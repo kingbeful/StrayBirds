@@ -54,8 +54,6 @@ favicon: http://jekyllrb.com/favicon.png
 nav:
   - text: 首页
     url: index.html
-  - text: 分类目录 
-    url: navigations/categories.html
   - text: 文章归档
     url: navigations/archives.html
   - text: 联系我
@@ -67,9 +65,9 @@ nav:
 author:
     name: kingbeful
     email: kevin.qian@msn.com
-    imageLink: https://avatars.githubusercontent.com/minixalpha
-    simpleIntro: Just a Coder
-    detailIntro:
+    imageLink: https://avatars.githubusercontent.com/kingbeful
+    simpleIntro: I'm Kevin Qian
+    detailIntro: Just a Coder
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
@@ -91,12 +89,6 @@ customLinks:
   - item:
     - text: 掌心
       url: http://www.zhanxin.info
-    - text: Jekyll
-      url: http://jekyllrb.com
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
-    message: Friends
-  - item:
     - text: Font Awesome
       url: http://fortawesome.github.io/Font-Awesome/
     - text: Google Font
