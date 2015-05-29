@@ -8,6 +8,8 @@ I take [this](http://kracekumar.com/post/55856724724/http-request-examples-for-l
 
 
 ```lua
+local http = require("socket.http")
+local ltn12 = require("ltn12")
 -- the parameter may like below
 -- base_url = "https://httpbin.org",
 -- args = {
