@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Migrate SVN Repository
 comments: true
 ---
